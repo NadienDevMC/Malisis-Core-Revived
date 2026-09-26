@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "malisiscore:block/multiblock_part" }
+  }
+}
